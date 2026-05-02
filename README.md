@@ -10,7 +10,6 @@ Sampling signal is periodic impulse train . The area of each impulse in the samp
 It is also called practical sampling.  In this sampling technique, the sampling signal is a pulse train.  In natural sampling method, the top of each pulse in the sampled signal retains the shape of input        signal during pulse interval.
 # FLAT-TOP SAMPLING:
 The flat-top sampling is also the practical sampling technique.  In the top sampling, the sampling signal is also a pulse train.  The top of each pulse in sampled signal remain constant and is equal to the instantaneous value of input signal x(n) at start of samples.
-
 # Program
 # IMPULSE SAMPLING:
 ```
